@@ -3,6 +3,7 @@ on:
     branches:
       - master
       - stable
+      - topic/gha-macos11
 name: Build binaries
 jobs:
   build:
